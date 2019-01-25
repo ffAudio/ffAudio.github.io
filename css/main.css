@@ -23,7 +23,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 500;
 }
 a {
   color: {{ site.link-col }};
@@ -113,14 +113,17 @@ img {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
+  background-position-x: center;
+  background-position-y: -85px;
   background-attachment: fixed;
   {% endif %}
 }
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
+  margin-right: 30px;
 }
 
 .navbar-custom .navbar-brand,
@@ -147,6 +150,7 @@ img {
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
+  padding-left: 30px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo {
   padding-top: 5px;
@@ -157,7 +161,8 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    /* padding: 160px 0; */
+    padding: 50px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -196,7 +201,7 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;
-    margin-top: -50px;
+    margin-top: -70px;
   }
 
   .navbar-custom .avatar-container  .avatar-img-border {
