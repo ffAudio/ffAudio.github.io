@@ -4,18 +4,7 @@ title: About
 subtitle: About Foleys Finest Audio
 ---
 
-## About Foleys Finest Audio
-
 ## Imprint
-
-    Foleys Finest Audio UG (haftungsbeschränkt)
-    73728 Esslingen / Neckar
-    Germany
-
-    Amtsgericht Bremen
-    Number HRB-31445-HB
-
----
 
     Foleys Finest Audio Ltd.
     25 Blaker St.
@@ -24,6 +13,15 @@ subtitle: About Foleys Finest Audio
 
     The Registrar of Companies for England and Wales
     Company number 11785558
+
+---
+
+    Foleys Finest Audio UG (haftungsbeschränkt)
+    73728 Esslingen / Neckar
+    Germany
+
+    Amtsgericht Bremen
+    Number HRB-31445-HB
 
 ---
 
