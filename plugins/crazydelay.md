@@ -15,14 +15,27 @@ But unlike the hardware original, you will not be limited by the fixed feedback 
 
 ## Specifications
 
-The CrazyDelay is currently available for Mac OSX. It will run on
-Apple Logic
-Adobe Audition
-all other hosts that conform to the AU CoreAudio standard
-VST hosts
-and VST3 hosts
-An average computer running OSX 10.7 and newer should be fine to run this plug-in. 
-A windows build will appear in a few weeks.
+The Crazydelay features a delay loop 3 seconds worth of audio. You can move the delay playhead and it will speed up or slow down the signal to adjust the delay time. This effect is known from 60s Tape Delays, when the playhead is moved along the recording infinite tape loop.
+
+The Signal to feed back has four plugin slots to modify the signal on each feed back. These plugin slots can be set to:
+- Limiter
+- Compressor
+- Equalizer
+- Stereo width / tilt / auto pan
+
+## Plugin formats
+
+The Frequalizer will run on Mac OSX 10.11 and newer. Supported:
+- **AU** Hosts like Logic, Ableton, Audition, etc.
+- **VST3** Hosts like Reaper and other.
+- **AAX** For ProTools 10 and higher.
+
+
+The Frequalizer will run on Windows 8.1, Windows 10 and newer:
+- **VST3** Cubase and other hosts, that support that format.
+- **AAX** For ProTools 10 and higher.
 
 ## Downloads
+
+* will appear soon *
 
