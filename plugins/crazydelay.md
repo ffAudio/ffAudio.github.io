@@ -26,16 +26,16 @@ The Signal to feed back has four plugin slots to modify the signal on each feed 
 ## Plugin formats
 
 The Frequalizer will run on Mac OSX 10.11 and newer. Supported:
-- **AU** Hosts like Logic, Ableton, Audition, etc.
-- **VST3** Hosts like Reaper and other.
-- **AAX** For ProTools 10 and higher.
+- **AU**        Hosts like Logic, Ableton, Audition, etc.
+- **VST3**      Hosts like Reaper and other.
+- **AAX**       For ProTools 10 and higher.
 
 
 The Frequalizer will run on Windows 8.1, Windows 10 and newer:
-- **VST3** Cubase and other hosts, that support that format.
-- **AAX** For ProTools 10 and higher.
+- **VST3**      Cubase and other hosts, that support that format.
+- **AAX**       For ProTools 10 and higher.
 
 ## Downloads
 
-* will appear soon *
+*will appear soon*
 
