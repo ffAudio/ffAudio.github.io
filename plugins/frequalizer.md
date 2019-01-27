@@ -11,5 +11,26 @@ There are shortcuts to solo each filter and to activate and deactivate each filt
 
 ![Frequalizer Screenshot](/img/plugins/FrequalizerFree.png)
 
+## Specifications
 
+The Frequalizer features 6 individual frequency bands with each 11 different filter types, including peak, notch, shelving, high pass and low pass.
+Each band can be individually turned on and off, as well as switched to solo mode, disabling all other bands.
+
+The Frequalizer features an analyzer, that will show the frequencies in the signal before entering the filters and when leaving out of the filter.
+
+## Plugin formats
+
+The Frequalizer will run on Mac OSX 10.11 and newer. Supported:
+- **AU** Hosts like Logic, Ableton, Audition, etc.
+- **VST3** Hosts like Reaper and other.
+- **AAX** For ProTools 10 and higher.
+
+
+The Frequalizer will run on Windows 8.1, Windows 10 and newer:
+- **VST3** Cubase and other hosts, that support that format.
+- **AAX** For ProTools 10 and higher.
+
+## Downloads
+
+* will appear soon *
 
