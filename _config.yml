@@ -28,8 +28,8 @@ navbar-links:
     - CrazyDelay: "plugins/crazydelay"
 #    - Animator: "plugins/animator"
   Developer:
-    - Whitelabel: 
-    - Bespoke Plugins:
+    - Whitelabel: "developer/whitelabel"
+    - Resources: "developer/resources"
   About: "about"
 #    - Imprint:
 #    - Privacy Statement:
