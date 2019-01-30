@@ -11,7 +11,7 @@ PlugIns and audio applications, as well as contract development and providing li
 
 ### Further information
 
-- [Imprint](imprint)
-- [Disclaimers](disclaimer)
-- [Acknowledgements](acknowledgements)
+- [Imprint](../imprint)
+- [Disclaimers](../disclaimer)
+- [Acknowledgements](../acknowledgements)
 
