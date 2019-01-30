@@ -31,9 +31,9 @@ navbar-links:
     - Whitelabel: "developer/whitelabel"
     - Resources: "developer/resources"
   About: "about"
-#    - Imprint:
-#    - Privacy Statement:
-#    - Acknowledgements:
+    - Imprint: "about/imprint"
+    - Privacy Statement: "about/disclaimers"
+    - Acknowledgements: "about/acknowledgements"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
