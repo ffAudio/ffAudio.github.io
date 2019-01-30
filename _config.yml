@@ -30,7 +30,7 @@ navbar-links:
   Developer:
     - Whitelabel: "developer/whitelabel"
     - Resources: "developer/resources"
-  About: "about"
+  About:
     - Imprint: "about/imprint"
     - Privacy Statement: "about/disclaimers"
     - Acknowledgements: "about/acknowledgements"
