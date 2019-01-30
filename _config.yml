@@ -31,6 +31,7 @@ navbar-links:
     - Whitelabel: "developer/whitelabel"
     - Resources: "developer/resources"
   About:
+    - Foleys Finest Audio: "about/about"
     - Imprint: "about/imprint"
     - Privacy Statement: "about/disclaimers"
     - Acknowledgements: "about/acknowledgements"
