@@ -32,6 +32,7 @@ The Frequalizer will run on Windows 8.1, Windows 10 and newer:
 
 ## Downloads
 
-- OSX: [FrequalizerFree_OSX](https://s3.eu-west-2.amazonaws.com/foleysfinest/plugins/Frequalizer_Free/FrequalizerFree_OSX.pkg) ![Formats](/img/PluginFormatsOSX.png)
+| ![OSX](/img/apple_logo.png) Mac OSX       | [FrequalizerFree_OSX](https://s3.eu-west-2.amazonaws.com/foleysfinest/plugins/Frequalizer_Free/FrequalizerFree_OSX.pkg) | 1.1.1 | ![AU / VST3 / AAX](/img/PluginFormatsOSX.png) |
+| ![Windows](/img/windows_logo.png) Windows | _Coming soon_                                                                                                           | 1.1.1 | ![VST3 / AAX](/img/PluginFormatsWIN.png)      |
 
 
