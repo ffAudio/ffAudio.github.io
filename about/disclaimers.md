@@ -15,7 +15,10 @@ Our website contains links to the websites of third parties (“external links�
 The content and works published on this website are governed by the copyright laws of Germany. Any duplication, processing, distribution or any form of utilisation beyond the scope of copyright law shall require the prior written consent of the author or authors in question.
 
 ## Privacy Statement
-A visit to our website can result in the storage on our server of information about the access (date, time, page accessed). This does not represent any analysis of personal data (e.g., name, address or e-mail address). If personal data are collected, this only occurs – to the extent possible – with the prior consent of the user of the website. Any forwarding of the data to third parties without the express consent of the user shall not take place.
+This page uses Google analytics to count the visits. Your IP-address will be anonymised. We do our best to keep your data and information about you anonymous, we value you as a person, not as a data asset.
+
+If you use products or buy licenses from Foleys Finest Audio Ltd., we will have to store and process data about you to deliver our service.
+
 
 We would like to expressly point out that the transmission of data via the Internet (e.g., by e-mail) can offer security vulnerabilities. It is therefore impossible to safeguard the data completely against access by third parties. We cannot assume any liability for damages arising as a result of such security vulnerabilities.
 
