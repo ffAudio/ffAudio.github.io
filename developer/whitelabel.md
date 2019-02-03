@@ -14,5 +14,5 @@ The designs will be adapted according to your designs and specifications. There 
 
 Sometimes while working as an Audio Engineer, you come back to a specific workflow or combination of plugins.
 We offer to create this workflow into a plugin of your own. Either for your personal use or to offer it as a signature series or even a giveaway from your studio.
-Get in touch for further details or a quote.
+Get in touch for further details or a quote: [developer@foleysfinest.com](mailto:developer@foleysfinest.com)
 
