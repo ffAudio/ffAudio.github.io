@@ -10,7 +10,21 @@ We also have some little or sometimes bigger snippets, that we used to get a bet
 
 ### ff_meters
 
+![ff_meters](/img/meters_screenshot.png){:style="float: right;margin-right: 7px;margin-top: 7px; width: 25%"}
+
+The `ff_meters` module is a free to use module to be used with the JUCE classes for audio. The whole painting can be adapted to your needs, in terms of colours and layout.
+
 This component fits into audio processing, it measures peak and RMS values and offers a Component to display a meter in a thread safe way.
+
+To measuere a stream a single line of code is sufficient:
+
+```
+void processBlock (AudioSampleBuffer& buffer, MidiBuffer&) override
+{
+    meterSource.measureBlock (buffer);
+    // ...
+}
+```
 
 - [ff_meters API]({{ site.baseurl }}/ff_meters/)
 - [ff_meters github](https://github.com/ffAudio/ff_meters/)
