@@ -16,18 +16,19 @@ The `ff_meters` module is a free to use module to be used with the JUCE classes 
 
 This component fits into audio processing, it measures peak and RMS values and offers a Component to display a meter in a thread safe way.
 
-To measuere a stream a single line of code is sufficient:
-
-```
-void processBlock (AudioSampleBuffer& buffer, MidiBuffer&) override
-{
-    meterSource.measureBlock (buffer);
-    // ...
-}
-```
+This project is published under the BSD 3-clause license, so it is free to use in your projects at no charge.
 
 - [ff_meters API]({{ site.baseurl }}/ff_meters/)
 - [ff_meters github](https://github.com/ffAudio/ff_meters/)
+
+### ffLayouts
+
+The layouts module allows to layout subcomponents according to a nested tree in horizontal and vertical lines. It allows margins around components, different stretch factors and text descriptions for components or groups, without the need to write code, once the updateGeometry() hook is added to the resized() method.
+
+The ffLayouts has an unfinished editor. It is planned to move to a new, more complete layout engine, allowing CSS methods like grid and flexbox.
+
+- [ffLayouts API]({{ site.baseurl }}/ffLayouts/)
+- [ffLayouts github](https://github.com/ffAudio/ffLayouts/)
 
 ## Further projects
 
