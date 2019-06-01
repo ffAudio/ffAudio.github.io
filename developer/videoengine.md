@@ -3,7 +3,8 @@ layout: page
 title: Video Engine
 ---
 
-## We present a video engine to implement video playback, editing and writing with JUCE
+We present a video engine to implement video playback, editing and writing with JUCE
+------------------------------------------------------------------------------------
 
 JUCE is a framework, that allows to write cross platform audio applications. To make it possible to create applications, where you can edit audio AND video in the same environment, we created an engine, that reads video files, allows creating video generators, playing back and writing videos.
 
@@ -17,7 +18,8 @@ The engine offers a range of classes, that represent audio visual media. The cla
 Inside a ComposedClip, each included clip goes through processing, where you can add audio plugins and Video effects, such as pan&zoom, colour adjustments etc.
 This is extensible, so you can write your own video effects as well.
 
-## Features available
+Features available
+------------------
 
 We will add features as we go, these are the ones, that are already finished:
 
@@ -25,7 +27,6 @@ We will add features as we go, these are the ones, that are already finished:
 - Normalise different sample rates and frame rates
 - Compositing of multiple videos or still images in layers (paint on top)
 - Alpha blending of clips to create different transitions
-- (Writing of video clips)
 - Audio plugins for clips
 - Automatable parameters for video composition
 - Video plugins for image processing / colour adjustments etc.
@@ -34,8 +35,8 @@ The rendering is done in software to be independent from any hardware constraint
 
 ![VideoEditor Screenshot](/img/VideoEditor.png)
 
-
-## License
+Licenses
+--------
 
 The engine is available for licensing. The code is published under the GPL-3 License and under a commercial license. That allows you to either use the code in your own GPL projects, or you can get a commercial license.
 
@@ -64,7 +65,8 @@ We offer different commercial packages:
 - No user counter
 - _Get in touch for a quote_
 
-## Documentation
+Documentation
+-------------
 
 You find the API documantation here: [foleys_video_engine]({{ site.baseurl }}/foleys_video_engine/)\\
 The sources of the engine are available via [github - ffAudio](https://github.com/ffAudio/foleys_video_engine/)\\
