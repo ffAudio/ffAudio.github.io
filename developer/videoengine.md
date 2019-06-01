@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video Engine for JUCE
+title: Video Engine
 ---
 
 ## We present a video engine to implement video playback, editing and writing with JUCE
@@ -33,6 +33,7 @@ We will add features as we go, these are the ones, that are already finished:
 The rendering is done in software to be independent from any hardware constraints. We plan somewhere in the future to add hardware accellerated processing.
 
 ![VideoEditor Screenshot](/img/VideoEditor.png)
+
 
 ## License
 
