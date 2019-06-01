@@ -25,11 +25,11 @@ We will add features as we go, these are the ones, that are already finished:
 
 - Reading of video files, video and audio synchronous
 - Normalise different sample rates and frame rates
+- Video plugins for image processing / colour adjustments etc.
+- Automatable parameters for video composition
 - Compositing of multiple videos or still images in layers (paint on top)
 - Alpha blending of clips to create different transitions
 - Audio plugins for clips
-- Automatable parameters for video composition
-- Video plugins for image processing / colour adjustments etc.
 
 The rendering is done in software to be independent from any hardware constraints. We plan somewhere in the future to add hardware accellerated processing.
 
@@ -64,6 +64,11 @@ We offer different commercial packages:
 - No splashscreen
 - No user counter
 - _Get in touch for a quote_
+
+The library uses FFmpeg for reading and writing video files. FFmpeg is published under L-GPL, so it is up to the user to govern for their license as well.
+We include neither a JUCE nor a FFmpeg license.
+It is possible to add your own video and audio reading classes to use it in the engine.
+
 
 Documentation
 -------------
