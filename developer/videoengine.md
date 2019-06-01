@@ -54,7 +54,7 @@ We offer different commercial packages:
 
 - Available for companies with yearly fundings of less than 200 tsd. US-Dollar in total
 - 40 US-Dollar (excl. VAT) per month and developer
-- billed quarter yearly, cancellation possible after 12 months
+- billed quarterly, cancellation possible after 12 months
 - No splashscreen
 - No user counter
 
