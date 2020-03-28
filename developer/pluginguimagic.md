@@ -52,9 +52,9 @@ You find the API documantation here: [foleys_gui_magic]({{ site.baseurl }}/Plugi
 Github repository
 -----------------
 
-Find the module to add to your project here: https://github.com/ffAudio/foleys_gui_magic
+Find the module to add to your project here: [https://github.com/ffAudio/foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic/)
 
-There is also a repository containing several example projects to get an idea from: https://github.com/ffAudio/PluginGuiMagic/
+There is also a repository containing several example projects to get an idea from: [https://github.com/ffAudio/PluginGuiMagic/](https://github.com/ffAudio/PluginGuiMagic/)
 To clone use the `--recurse-submodules` flag:
 ```
 git clone --recurse-submodules https://github.com/ffAudio/PluginGuiMagic.git
