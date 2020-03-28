@@ -1,0 +1,64 @@
+---
+layout: page
+title: Plugin Gui Magic
+---
+
+PluginGuiMagic: A WYSWYG runtime design system for JUCE Plugins
+---------------------------------------------------------------
+
+JUCE is a framework, that allows to write cross platform audio applications and DAW Plugins.
+Adding the foleys_plugin_magic module allows to have a generated UI, that can be edited at runtime using advanced layout and styling options.
+It also adds visualisers to display signals, levels and spectra with no extra coding involved. 
+
+
+Features
+--------
+
+The module will display an editor panel attached outside of the ProcessorEditor you are editing. In three resizeable sections it displays the Components as tree structure (DOM), a property editor to adjust settings and colours in a CSS manor and a palette of available Components.
+You can add your own bespoke Components without modifying the code to be available for the designer.
+
+These are some of the already available Components:
+
+- Slider
+- ToggleButton, TextButton
+- ComboBox
+- Label
+- XY-Dragger
+- LevelMeter, Plot
+- MidiKeyboardComponent
+- WebBrowserComponent
+
+And those Visualisers are already present:
+
+- LevelMeter
+- Oscilloscope
+- Frequency Analyser
+- IIR FrequencyResponsePlot
+
+![Equalizer Screenshot](/img/EqualizerExample.png)
+
+Licenses
+--------
+
+PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 clause) license, see [License](https://github.com/ffAudio/foleys_gui_magic/blob/master/LICENSE.md)
+
+If you are selling plugins or applications using *foleys_gui_magic*, you are required to buy a license. The selling page will be online soon, meanwhile please get in touch with [daniel@foleysfinest.com](mailto:daniel@foleysfinest.com?Subject=PluginGuiMagic%20License)
+
+Documentation
+-------------
+
+You find the API documantation here: [foleys_gui_magic]({{ site.baseurl }}/PluginGuiMagic/)\\
+The sources of the engine are available via [github - ffAudio](https://github.com/ffAudio/foleys_video_engine/)\\
+We provide also a repository with a few demo programs ready to build: [Example sources](https://github.com/ffAudio/VideoExamples/)
+
+Github repository
+-----------------
+
+Find the module to add to your project here: https://github.com/ffAudio/foleys_gui_magic
+
+There is also a repository containing several example projects to get an idea from: https://github.com/ffAudio/PluginGuiMagic/
+To clone use the `--recurse-submodules` flag:
+```
+git clone --recurse-submodules https://github.com/ffAudio/PluginGuiMagic.git
+```
+

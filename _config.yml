@@ -28,6 +28,7 @@ navbar-links:
     - CrazyDelay: "plugins/crazydelay"
 #    - Animator: "plugins/animator"
   Developer:
+    - PluginGuiMagic: "developer/pluginguimagic"
     - Video Engine: "developer/videoengine"
     - Whitelabel: "developer/whitelabel"
     - Resources: "developer/resources"
