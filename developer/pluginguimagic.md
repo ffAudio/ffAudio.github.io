@@ -48,8 +48,6 @@ Documentation
 -------------
 
 You find the API documantation here: [foleys_gui_magic]({{ site.baseurl }}/PluginGuiMagic/)\\
-The sources of the engine are available via [github - ffAudio](https://github.com/ffAudio/foleys_video_engine/)\\
-We provide also a repository with a few demo programs ready to build: [Example sources](https://github.com/ffAudio/VideoExamples/)
 
 Github repository
 -----------------
