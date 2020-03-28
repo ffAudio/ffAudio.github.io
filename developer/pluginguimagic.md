@@ -10,6 +10,7 @@ JUCE is a framework, that allows to write cross platform audio applications and 
 Adding the foleys_plugin_magic module allows to have a generated UI, that can be edited at runtime using advanced layout and styling options.
 It also adds visualisers to display signals, levels and spectra with no extra coding involved. 
 
+![FoleysSynth Screenshot](/img/FoleysSynth.png)
 
 Features
 --------
