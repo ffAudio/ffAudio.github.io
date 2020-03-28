@@ -48,7 +48,7 @@ If you are selling plugins or applications using *foleys_gui_magic*, you are req
 Documentation
 -------------
 
-You find the API documantation here: [foleys_gui_magic]({{ site.baseurl }}/PluginGuiMagic/)\\
+You find the API documantation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/)
 
 Github repository
 -----------------
