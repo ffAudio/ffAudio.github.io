@@ -45,6 +45,16 @@ PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 cl
 
 If you are selling plugins or applications using *foleys_gui_magic*, you are required to buy a license. The selling page will be online soon, meanwhile please get in touch with [daniel@foleysfinest.com](mailto:daniel@foleysfinest.com?Subject=PluginGuiMagic%20License)
 
+The commercial license is per developer/designer who works on the project(s):
+
+Annual                | Half year              | Quarterly
+----------------------+------------------------+----------------
+119.00 USD            | 69.00 USD              | 39.00 USD
+equals 9.92 per month | equals 11.50 per month | 13.00 per month 
+
+* Prices don't include VAT
+
+
 Documentation
 -------------
 
