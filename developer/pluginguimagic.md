@@ -47,10 +47,12 @@ If you are selling plugins or applications using *foleys_gui_magic*, you are req
 
 The commercial license is per developer/designer who works on the project(s):
 
-Annual                | Half year              | Quarterly
-----------------------+------------------------+----------------
-119.00 USD            | 69.00 USD              | 39.00 USD
-equals 9.92 per month | equals 11.50 per month | 13.00 per month 
++-----------------------+------------------------+-----------------+
+| Annual                | Half year              | Quarterly       |
++-----------------------+------------------------+-----------------+
+| 119.00 USD            | 69.00 USD              | 39.00 USD       |
+| equals 9.92 per month | equals 11.50 per month | 13.00 per month |
++-----------------------+------------------------+-----------------+
 
 * Prices don't include VAT
 
