@@ -23,6 +23,7 @@ description: Welcome to Foleys Finest Audio Ltd.
 
 # List of links in the navigation bar
 navbar-links:
+  News: "news"
   Plugins:
     - Frequalizer Free: "plugins/frequalizer"
     - CrazyDelay: "plugins/crazydelay"
