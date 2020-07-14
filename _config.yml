@@ -23,7 +23,7 @@ description: Welcome to Foleys Finest Audio Ltd.
 
 # List of links in the navigation bar
 navbar-links:
-  News: "news"
+  Blog: "blog"
   Plugins:
     - Frequalizer Free: "plugins/frequalizer"
     - CrazyDelay: "plugins/crazydelay"
@@ -67,6 +67,8 @@ footer-link-col: "#404040"
 navbar-img: "/img/title-bg.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
+
+paginate_path: "/blog/page:num/"
 
 # --- Footer options --- #
 
@@ -178,7 +180,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: "blog"
       type: "posts"
     values:
       layout: "post"
