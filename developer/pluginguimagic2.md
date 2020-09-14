@@ -94,12 +94,12 @@ equals 13.00 USD per month<br/>
 Documentation
 -------------
 
-You find the API documantation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/)
+You find the API documantation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/){:target="_blank"}
 
 Github repository
 -----------------
 
-Find the module to add to your project here: [https://github.com/ffAudio/foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic/)
+Find the module to add to your project here: [https://github.com/ffAudio/foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic/){:target="_blank"}
 
 There is also a repository containing several example projects to get an idea from: [https://github.com/ffAudio/PluginGuiMagic/](https://github.com/ffAudio/PluginGuiMagic/)
 To clone use the `--recurse-submodules` flag:
