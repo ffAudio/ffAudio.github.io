@@ -52,7 +52,7 @@ If you are selling plugins or applications using *foleys_gui_magic*, you are req
 The commercial license is per developer/designer who works on the project(s):
 
 <div style="display:flex; flex-direction:row">
-<div>
+<div style="align:center">
 <h3>Annual license</h3>
 
 119.00 USD (*)<br/> 
@@ -61,7 +61,7 @@ equals 9.92 USD per month<br/>
 <a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy</a>
 </div>
 
-<div>
+<div style="align:center">
 <h3>Half year license</h3>
 
 69.00 USD (*)<br/>
@@ -70,7 +70,7 @@ equals 11.50 USD per month<br/>
 <a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy</a>
 </div>
 
-<div>
+<div style="align:center">
 <h3>Quarterly license</h3>
 
 39.00 USD (*)<br/>
@@ -79,7 +79,7 @@ equals 13.00 USD per month<br/>
 <a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy</a>
 </div>
 
-<div>
+<div style="align:center">
 <h3>Perpetual license</h3>
 
 339.00 USD (*)<br/>
