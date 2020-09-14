@@ -53,7 +53,7 @@ The commercial license is per developer/designer who works on the project(s):
 
 <div style="display:flex; flex-direction:row">
 <div style="text-align:center">
-<h3>Annual license</h3>
+<h3>Annual</h3>
 
 119.00 USD (*)<br/> 
 equals 9.92 USD per month<br/>
@@ -62,7 +62,7 @@ equals 9.92 USD per month<br/>
 </div>
 
 <div style="text-align:center">
-<h3>Half year license</h3>
+<h3>Half year</h3>
 
 69.00 USD (*)<br/>
 equals 11.50 USD per month<br/>
@@ -71,7 +71,7 @@ equals 11.50 USD per month<br/>
 </div>
 
 <div style="text-align:center">
-<h3>Quarterly license</h3>
+<h3>Quarterly</h3>
 
 39.00 USD (*)<br/>
 equals 13.00 USD per month<br/>
@@ -80,9 +80,9 @@ equals 13.00 USD per month<br/>
 </div>
 
 <div style="text-align:center">
-<h3>Perpetual license</h3>
+<h3>Perpetual</h3>
 
-339.00 USD (*)<br/>
+339.00 USD (*)<br/><br/>
 
 <a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual-license">Buy</a>
 </div>
