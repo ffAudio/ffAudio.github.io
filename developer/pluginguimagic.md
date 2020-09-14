@@ -42,7 +42,7 @@ And those Visualisers are already present:
 Licenses
 --------
 
-PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 clause) license, see [License](/files/PluginGuiMagic-license-document.pdf)
+PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 clause) license, see [License](/files/PluginGuiMagic-license-document.pdf){:target="_blank"}
 
 If you are selling plugins or applications using *foleys_gui_magic*, you are required to buy a license. 
 
