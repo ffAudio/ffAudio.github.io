@@ -62,14 +62,26 @@ for one developer or designer
 equals 11.50 USD per month    
 for one developer or designer
 
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy a 6-month license</a>
+
 ### Quarterly license
 
 39.00 USD (*)    
 equals 13.00 USD per month    
 for one developer or designer
 
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy a quarterly license</a>
 
-* Prices don't include VAT
+### Perpetual license
+
+339.00 USD (*)    
+for one developer or designer
+
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual">Buy a perpetual license</a>
+
+
+
+* You will see the local price with the applicable VAT added when you click on the buy link (you can still cancel)
 
 
 Documentation
