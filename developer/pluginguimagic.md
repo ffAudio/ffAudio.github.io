@@ -46,56 +46,62 @@ PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 cl
 
 If you are selling plugins or applications using *foleys_gui_magic*, you are required to buy a license. 
 
-**Save 20% introduction offer on annual and perpetual licenses! Use the code FOLEYS-WEBSITE-2020 on checkout. Valid until 31.October 2020 (UTC)**
-
+**Save 20% introduction offer on annual and perpetual licenses!    
+Use the code FOLEYS-WEBSITE-2020 on checkout. Valid until 31.October 2020 (UTC)**
 
 The commercial license is per developer/designer who works on the project(s):
 
-### Annual license
+<div style="display:flex; flex-direction:row">
+<div style="text-align:center">
+<h3>Annual</h3>
 
-119.00 USD (*)    
-equals 9.92 USD per month    
-for one developer or designer
+119.00 USD (*)<br/> 
+equals 9.92 USD per month<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy an annual license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy</a>
+</div>
 
-### Half year license
+<div style="text-align:center">
+<h3>Half year</h3>
 
-69.00 USD (*)    
-equals 11.50 USD per month    
-for one developer or designer
+69.00 USD (*)<br/>
+equals 11.50 USD per month<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy a 6-month license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy</a>
+</div>
 
-### Quarterly license
+<div style="text-align:center">
+<h3>Quarterly</h3>
 
-39.00 USD (*)    
-equals 13.00 USD per month    
-for one developer or designer
+39.00 USD (*)<br/>
+equals 13.00 USD per month<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy a quarterly license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy</a>
+</div>
 
-### Perpetual license
+<div style="text-align:center">
+<h3>Perpetual</h3>
 
-339.00 USD (*)    
-for one developer or designer
+339.00 USD (*)<br/><br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual-license">Buy a perpetual license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual-license">Buy</a>
+</div>
+</div>
 
+(*) You will see the local price with the applicable VAT added when you click on the buy link (you can still cancel)    
+(**) The licenses are sold via [Fastspring](https://fastspring.com/){:target="_blank"}
 
-
-* You will see the local price with the applicable VAT added when you click on the buy link (you can still cancel)
-
+The full code is publicly available, please test before buying a license!
 
 Documentation
 -------------
 
-You find the API documantation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/)
+You find the API documantation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/){:target="_blank"}
 
 Github repository
 -----------------
 
-Find the module to add to your project here: [https://github.com/ffAudio/foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic/)
+Find the module to add to your project here: [https://github.com/ffAudio/foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic/){:target="_blank"}
 
 There is also a repository containing several example projects to get an idea from: [https://github.com/ffAudio/PluginGuiMagic/](https://github.com/ffAudio/PluginGuiMagic/)
 To clone use the `--recurse-submodules` flag:

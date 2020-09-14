@@ -7,7 +7,6 @@ subtitle: Foleys Finest Audio
 ## Imprint
 
     Foleys Finest Audio Ltd.
-    25 Blaker St.
     Brighton, East Sussex, UK
     BN2 0JJ
 
@@ -17,7 +16,7 @@ subtitle: Foleys Finest Audio
 ---
 
     Foleys Finest Audio UG (haftungsbeschränkt)
-    73728 Esslingen / Neckar
+    73733 Esslingen / Neckar
     Germany
 
     Amtsgericht Bremen
