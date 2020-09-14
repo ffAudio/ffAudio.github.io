@@ -46,7 +46,7 @@ PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 cl
 
 If you are selling plugins or applications using *foleys_gui_magic*, you are required to buy a license. 
 
-** Save 20% introduction offer on annual and perpetual licenses! Use the code FOLEYS-WEBSITE-2020 on checkout. Valid until 31.October 2020 (UTC) **
+**Save 20% introduction offer on annual and perpetual licenses! Use the code FOLEYS-WEBSITE-2020 on checkout. Valid until 31.October 2020 (UTC)**
 
 
 The commercial license is per developer/designer who works on the project(s):
