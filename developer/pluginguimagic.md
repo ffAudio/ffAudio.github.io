@@ -54,6 +54,8 @@ The commercial license is per developer/designer who works on the project(s):
 equals 9.92 USD per month    
 for one developer or designer
 
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy an annual license</a>
+
 ### Half year license
 
 69.00 USD (*)    
