@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Plugin Gui Magic
+fastspring: foleysfinest.onfastspring.com/popup-foleysfinest
 ---
 
 PluginGuiMagic: A WYSWYG runtime design system for JUCE Plugins

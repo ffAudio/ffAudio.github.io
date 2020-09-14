@@ -128,6 +128,15 @@
   {% include matomo.html %}
   {% endif %}
 
+  {% if page.fastspring %}
+  <script
+    id="fsc-api"
+    src="https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.8.3/fastspring-builder.min.js"
+    type="text/javascript"
+    data-storefront="{{ page.fastspring }}">
+  </script>
+  {% endif %}
+
   {% include cookieconsent.html %}
 
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
