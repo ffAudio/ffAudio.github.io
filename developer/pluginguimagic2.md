@@ -89,7 +89,7 @@ equals 13.00 USD per month<br/>
 </div>
 
 (*) You will see the local price with the applicable VAT added when you click on the buy link (you can still cancel)    
-(**) The licenses are sold via Fastspring
+(**) The licenses are sold via [Fastspring](https://fastspring.com/){:target="_blank"}
 
 Documentation
 -------------
