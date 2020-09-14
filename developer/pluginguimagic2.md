@@ -57,9 +57,9 @@ The commercial license is per developer/designer who works on the project(s):
 
 119.00 USD (*)<br/> 
 equals 9.92 USD per month<br/>
-for one developer or designer<br/>
+per developer or designer<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy an annual license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy</a>
 </div>
 
 <div>
@@ -67,9 +67,9 @@ for one developer or designer<br/>
 
 69.00 USD (*)<br/>
 equals 11.50 USD per month<br/>
-for one developer or designer<br/>
+per developer or designer<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy a 6-month license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy</a>
 </div>
 
 <div>
@@ -77,22 +77,22 @@ for one developer or designer<br/>
 
 39.00 USD (*)<br/>
 equals 13.00 USD per month<br/>
-for one developer or designer<br/>
+per developer or designer<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy a quarterly license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy</a>
 </div>
 
 <div>
 <h3>Perpetual license</h3>
 
 339.00 USD (*)<br/>
-for one developer or designer<br/>
+per developer or designer<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual-license">Buy a perpetual license</a>
+<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual-license">Buy</a>
 </div>
 </div>
 
-* You will see the local price with the applicable VAT added when you click on the buy link (you can still cancel)
+(*) You will see the local price with the applicable VAT added when you click on the buy link (you can still cancel)
 
 
 Documentation
