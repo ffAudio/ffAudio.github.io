@@ -13,6 +13,10 @@ JUCE is a framework, that allows to write cross platform audio applications and 
 Adding the foleys_plugin_magic module allows to have a generated UI, that can be edited at runtime using advanced layout and styling options.
 It also adds visualisers to display signals, levels and spectra with no extra coding involved. 
 
+**Save 20% introduction offer on annual and perpetual licenses!    
+Use the code FOLEYS-WEBSITE-2020 on checkout. Valid until 31.October 2020 (UTC)**    
+Prices see below.
+
 ![FoleysSynth Screenshot](/img/FoleysSynth.png)
 
 Features
@@ -47,9 +51,6 @@ Licenses
 PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 clause) license, see [License](/files/PluginGuiMagic-license-document.pdf){:target="_blank"}
 
 If you are selling plugins or applications using *foleys_gui_magic*, you are required to buy a license. 
-
-**Save 20% introduction offer on annual and perpetual licenses!    
-Use the code FOLEYS-WEBSITE-2020 on checkout. Valid until 31.October 2020 (UTC)**
 
 The commercial license is per developer/designer who works on the project(s):
 
