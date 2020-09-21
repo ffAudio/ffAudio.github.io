@@ -101,6 +101,13 @@ Documentation
 
 You find the API documantation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/){:target="_blank"}
 
+Support
+-------
+
+Support for PluginGuiMagic is available via the community driven [Forum](https://forum.foleysfinest.com/c/pluginguimagic/). Please look around, sign up and ask questions, give feedback, report bugs, simply get in touch!
+
+If you need personal assistence, this can only be given on a paid basis. Please write to [developer@foleysfinest.com](mailto:developer@foleysfinest.com) explaining your issue to get a quote.
+
 Github repository
 -----------------
 
