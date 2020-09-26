@@ -33,6 +33,7 @@ navbar-links:
     - Video Engine: "developer/videoengine"
     - Whitelabel: "developer/whitelabel"
     - Resources: "developer/resources"
+    - Support Forum: "https://forum.foleysfinest.com/"
   About:
     - Foleys Finest Audio: "about/about"
     - Imprint: "about/imprint"
