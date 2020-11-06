@@ -13,10 +13,6 @@ JUCE is a framework, that allows to write cross platform audio applications and 
 Adding the foleys_plugin_magic module allows to have a generated UI, that can be edited at runtime using advanced layout and styling options.
 It also adds visualisers to display signals, levels and spectra with no extra coding involved. 
 
-**Save 20% introduction offer on annual and perpetual licenses!    
-Use the code FOLEYS-WEBSITE-2020 on checkout. Valid until 31.October 2020 (UTC)**    
-Prices see below.
-
 ![FoleysSynth Screenshot](/img/FoleysSynth.png)
 
 Features
@@ -96,8 +92,8 @@ equals 13.00 USD per month<br/>
 
 The full code is publicly available, please test before buying a license!
 
-Documentation and support
--------------------------
+Documentation and support forum
+-------------------------------
 
 You find the API documentation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/){:target="_blank"}
 
@@ -105,14 +101,18 @@ Support for PluginGuiMagic is available via the community driven [forum](https:/
 
 If you need personal assistance, this can only be given on a paid basis. Please write to [developer@foleysfinest.com](mailto:developer@foleysfinest.com) explaining your issue to get a quote.
 
-Github repository
------------------
+Github repository - Downloading
+-------------------------------
 
 Find the module to add to your project here: [https://github.com/ffAudio/foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic/){:target="_blank"}
+You will see a green download button labelled "Code". There are the URLs to clone the repository (recommended) or to download it as zip.
+Make sure the folder has the right filename `foleys_gui_magic`, some clients append a suffix like the branchname, which will stop Projucer from recognising the module.
 
 There is also a repository containing several example projects to get an idea from: [https://github.com/ffAudio/PluginGuiMagic/](https://github.com/ffAudio/PluginGuiMagic/)
 To clone use the `--recurse-submodules` flag:
 ```
 git clone --recurse-submodules https://github.com/ffAudio/PluginGuiMagic.git
 ```
+
+Happy designing!
 
