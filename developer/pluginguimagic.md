@@ -15,6 +15,8 @@ It also adds visualisers to display signals, levels and spectra with no extra co
 
 ![FoleysSynth Screenshot](/img/FoleysSynth.png)
 
+PluginGuiMagic is not just for prototyping, the layout, visualisations and styling can be used in the final product.
+
 Buy PluginGuiMagic for commercial use
 -------------------------------------
 
