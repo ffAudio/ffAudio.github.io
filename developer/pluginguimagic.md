@@ -16,6 +16,7 @@ It also adds visualisers to display signals, levels and spectra with no extra co
 ![FoleysSynth Screenshot](/img/FoleysSynth.png)
 
 Buy PluginGuiMagic for commercial use
+-------------------------------------
 
 <div style="display:flex; flex-direction:row">
 <div class="product">
@@ -124,7 +125,6 @@ equals 9.92 USD per month<br/>
 </div>
 
 <div class="product">
-<div style="text-align:center">
 <h3>Half year</h3>
 
 69.00 USD (*)<br/>
