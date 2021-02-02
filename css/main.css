@@ -719,6 +719,16 @@ td.gutter {
   margin-bottom: 30px;
 }
 
+/* --- Shopping boxes --- */
+.product {
+  margin:           5px;
+  padding:          5px;
+  border:           1px;
+  background-color: #F60;
+  border-color:     #F10;
+  text-align:       center;
+}
+
 /* --- Notification boxes --- */
 .box-note, .box-warning, .box-error {
   padding: 15px 15px 15px 10px;
