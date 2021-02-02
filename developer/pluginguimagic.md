@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plugin Gui Magic
-subtitle: PluginGuiMagic allow you to design you audio plugin GUI with mouseclicks at runtime
+subtitle: PluginGuiMagic allows you to design your audio plugin GUI with mouseclicks at runtime
 fastspring: foleysfinest.onfastspring.com/popup-foleysfinest
 share-img: https://foleysfinest.com/img/EqualizerExample-og.png
 ---
