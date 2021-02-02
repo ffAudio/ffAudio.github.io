@@ -60,7 +60,7 @@ equals 9.92 USD per month<br/>
 <a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy</a>
 </div>
 
-<div style="text-align:center">
+<div class="product">
 <h3>Half year</h3>
 
 69.00 USD (*)<br/>
@@ -69,7 +69,7 @@ equals 11.50 USD per month<br/>
 <a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy</a>
 </div>
 
-<div style="text-align:center">
+<div class="product">
 <h3>Quarterly</h3>
 
 39.00 USD (*)<br/>
@@ -78,7 +78,7 @@ equals 13.00 USD per month<br/>
 <a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy</a>
 </div>
 
-<div style="text-align:center">
+<div class="product">
 <h3>Perpetual</h3>
 
 339.00 USD (*)<br/><br/>

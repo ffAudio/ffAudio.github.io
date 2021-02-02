@@ -724,9 +724,10 @@ td.gutter {
   margin:           5px;
   padding:          5px;
   border:           1px;
-  background-color: #F60;
+  background-color: #F90;
   border-color:     #F10;
   text-align:       center;
+  border-radius:    25px;
 }
 
 /* --- Notification boxes --- */
