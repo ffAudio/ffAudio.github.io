@@ -51,7 +51,7 @@ If you are selling plugins or applications using *foleys_gui_magic*, you are req
 The commercial license is per developer/designer who works on the project(s):
 
 <div style="display:flex; flex-direction:row">
-<div style="product">
+<div class="product">
 <h3>Annual</h3>
 
 119.00 USD (*)<br/> 
