@@ -2,7 +2,6 @@
 layout: page
 title: Plugin Gui Magic
 subtitle: PluginGuiMagic allows you to design your audio plugin GUI with mouseclicks at runtime
-fastspring: foleysfinest.onfastspring.com/popup-foleysfinest
 share-img: https://foleysfinest.com/img/EqualizerExample-og.png
 ---
 
@@ -13,50 +12,11 @@ JUCE is a framework, that allows to write cross platform audio applications and 
 Adding the foleys_plugin_magic module allows to have a generated UI, that can be edited at runtime using advanced layout and styling options.
 It also adds visualisers to display signals, levels and spectra with no extra coding involved. 
 
+NEW: PluginGuiMagic is from Version 1.4.0 licensed under the permissive BSD V3 3-clause license. That means it can be used in any project, including closed source and commercial products.
+
 ![FoleysSynth Screenshot](/img/FoleysSynth.png)
 
 PluginGuiMagic is not just for prototyping, the layout, visualisations and styling can be used in the final product.
-
-Buy PluginGuiMagic for commercial use
--------------------------------------
-
-<div style="display:flex; flex-direction:row">
-<div class="product">
-<h3>Annual</h3>
-
-119.00 USD (*)<br/> 
-equals 9.92 USD per month<br/>
-
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy</a>
-</div>
-
-<div class="product">
-<h3>Half year</h3>
-
-69.00 USD (*)<br/>
-equals 11.50 USD per month<br/>
-
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy</a>
-</div>
-
-<div class="product">
-<h3>Quarterly</h3>
-
-39.00 USD (*)<br/>
-equals 13.00 USD per month<br/>
-
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy</a>
-</div>
-
-<div class="product">
-<h3>Perpetual</h3>
-
-339.00 USD (*)<br/><br/>
-
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual-license">Buy</a>
-</div>
-</div>
-
 
 Features
 --------
@@ -98,65 +58,37 @@ Github repository - Downloading
 
 Find the module to add to your project here: [https://github.com/ffAudio/foleys_gui_magic](https://github.com/ffAudio/foleys_gui_magic/){:target="_blank"}
 You will see a green download button labelled "Code". There are the URLs to clone the repository (recommended) or to download it as zip.
-Make sure the folder has the right filename `foleys_gui_magic`, some clients append a suffix like the branchname, which will stop Projucer from recognising the module.
 
-There is also a repository containing several example projects to get an idea from: [https://github.com/ffAudio/PluginGuiMagic/](https://github.com/ffAudio/PluginGuiMagic/)
-To clone use the `--recurse-submodules` flag:
-```
-git clone --recurse-submodules https://github.com/ffAudio/PluginGuiMagic.git
-```
+NEW in 1.4.0: The foleys_gui_magic repository contains the module in the folder modules. Just add the module in that subdirectory to your juce project.    
+In the repository you will also find the examples in the Examples folder and unit tests in the Tests folder.
+
 
 
 Licenses
 --------
 
-PluginGuiMagic is free to use for non-commercial projects under the BSD-V2 (3 clause) license, see [License](/files/PluginGuiMagic-license-document.pdf){:target="_blank"}
+PluginGuiMagic is from Version 1.4.0 licensed under the permissive BSD V3 3-clause license. That means it can be used in any project, including closed source and commercial products.
 
-If you are selling plugins or applications using *foleys_gui_magic*, you are required to buy a license. 
+**BSD 3-Clause License**
 
-The commercial license is per developer/designer who works on the project(s):
+Copyright (c) 2019, Foleys Finest Audio - Daniel Walz
+All rights reserved.
 
-<div style="display:flex; flex-direction:row">
-<div class="product">
-<h3>Annual</h3>
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
 
-119.00 USD (*)<br/> 
-equals 9.92 USD per month<br/>
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-annual">Buy</a>
-</div>
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
 
-<div class="product">
-<h3>Half year</h3>
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
 
-69.00 USD (*)<br/>
-equals 11.50 USD per month<br/>
 
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-halfyear">Buy</a>
-</div>
-
-<div class="product">
-<h3>Quarterly</h3>
-
-39.00 USD (*)<br/>
-equals 13.00 USD per month<br/>
-
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-quarterly">Buy</a>
-</div>
-
-<div class="product">
-<h3>Perpetual</h3>
-
-339.00 USD (*)<br/><br/>
-
-<a href='#' data-fsc-action="Add,Checkout" data-fsc-item-path-value="pluginguimagic-perpetual-license">Buy</a>
-</div>
-</div>
-
-(*) You will see the local price with the applicable VAT added when you click on the buy link (you can still cancel)    
-(**) The licenses are sold via [Fastspring](https://fastspring.com/){:target="_blank"}
-
-The full code is publicly available, please test before buying a license!
 
 Happy designing!
 
