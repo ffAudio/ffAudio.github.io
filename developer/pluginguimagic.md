@@ -47,7 +47,7 @@ And those Visualisers are already present:
 Documentation and support forum
 -------------------------------
 
-You find the API documentation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/PluginGuiMagic/){:target="_blank"}
+You find the API documentation here: [PluginGuiMagic (doxygen)]({{ site.baseurl }}/foleys_gui_magic/){:target="_blank"}
 
 Support for PluginGuiMagic is available via the community driven [forum](https://forum.foleysfinest.com/c/pluginguimagic/). Please look around, sign up and ask questions, give feedback, report bugs, simply get in touch!
 
