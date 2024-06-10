@@ -9,5 +9,5 @@ creative music production plugins.
 
 [<img src="/img/lobith-featured.png" alt=" Lobith Audio teaser panel">](https://lobith-audio.com)
 
-You find th new page on [lobith-audio.com](https://lobith-audio.com)
+You will find the new page on [lobith-audio.com](https://lobith-audio.com).
 
