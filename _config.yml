@@ -31,7 +31,6 @@ navbar-links:
   Developer:
     - PluginGuiMagic: "developer/pluginguimagic"
     - Video Engine: "developer/videoengine"
-    - Whitelabel: "developer/whitelabel"
     - Resources: "developer/resources"
     - Support Forum: "https://forum.foleysfinest.com/"
   About:
