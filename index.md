@@ -31,7 +31,7 @@ Integrating everywhere
 ======================
 
 We have experience in all major DAWs and deploy in a diverse set of APIs.
-Our portfolio covers VST3:tm:, Apple:tm: AudioUnits and AVID:tm: AAX plugins.
+Our portfolio covers VST3 :tm:, Apple :tm: AudioUnits and AVID :tm: AAX plugins.
 
 Our software is designed to run on Windows PCs, Apple computers as well as
 mobile platforms like iOS and Android. We also run Linux computers and develop
