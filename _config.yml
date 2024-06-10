@@ -24,13 +24,11 @@ description: Welcome to Foleys Finest Audio
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Plugins:
-    - Frequalizer Free: "plugins/frequalizer"
-    - CrazyDelay: "plugins/crazydelay"
-#    - Animator: "plugins/animator"
-  Developer:
+  Products: "products"
+  Open Source:
     - PluginGuiMagic: "developer/pluginguimagic"
     - Video Engine: "developer/videoengine"
+    - Frequalizer Free: "developer/frequalizer"
     - Resources: "developer/resources"
     - Support Forum: "https://forum.foleysfinest.com/"
   About:
