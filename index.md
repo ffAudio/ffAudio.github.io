@@ -38,21 +38,22 @@ make audio software better. With many years in the audio industry we developed
 a modern style following best practices as they appear. We focus on solid and
 well maintainable code in C++.
 
+Learn more under [Services](/services)
 
 Some of our happy clients
-=========================
+-------------------------
 
 <ul style="display: flex; list-style: none">
   {% for image in page.images %}
     <li class="horizontal-list">
-      <a href="{{ image.link }}" target="_blank"><img src="{{ image.path }}" alt="{{ image.text }}" width="200px" height="200px"></a>
+      <a href="{{ image.link }}" target="_blank"><img src="{{ image.path }}" alt="{{ image.text }}" width="150px" height="150px"></a>
     </li>
   {% endfor %}
 </ul>
 
 
 Integrating everywhere
-======================
+----------------------
 
 We have experience in all major DAWs and deploy in a diverse set of APIs.
 Our portfolio covers VST3&#x2122;, Apple&#x2122; AudioUnits and AVID&#x2122; AAX plugins.
@@ -66,7 +67,7 @@ We use [JUCE](https://juce.com) for many of our products, but not exclusively.
 VST "Virtual Studio Technology" is a trademark of Steinberg GmbH.
 
 Modules for Audio Development
-=============================
+-----------------------------
 
 For audio developers we offer libraries and JUCE modules for GUI design/WYSWYG 
 editing and audio visualisation. We also develop a video framework to make
