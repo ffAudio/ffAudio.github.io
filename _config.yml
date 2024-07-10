@@ -24,18 +24,18 @@ description: Welcome to Foleys Finest Audio
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog"
-  Products: "products"
+  Services: "services"
   Open Source:
     - PluginGuiMagic: "developer/pluginguimagic"
     - Video Engine: "developer/videoengine"
     - Frequalizer Free: "developer/frequalizer"
     - Resources: "developer/resources"
-    - Support Forum: "https://forum.foleysfinest.com/"
   About:
     - Foleys Finest Audio: "about/about"
     - Imprint: "about/imprint"
     - Legal Disclaimers: "about/disclaimers"
     - Acknowledgements: "about/acknowledgements"
+  Support Forum: "https://forum.foleysfinest.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

@@ -2,6 +2,18 @@
 layout: page
 title: Foleys Finest Audio
 use-site-title: true
+
+images:
+  - path: /img/clients/safari_logo.webp
+    column: 1
+    text: Safari Pedals
+    link: https://safaripedals.com
+  - path: /img/clients/black_lion_logo.webp
+    column: 2
+    text: Black Lion Audio
+    link: https://blacklionaudio.com
+
+
 ---
 
 Foleys Finest Audio UG is the independent Audio Software development / consulting business
@@ -25,6 +37,18 @@ Foleys Finest Audio develops audio tools, plugins and other building blocks to
 make audio software better. With many years in the audio industry we developed
 a modern style following best practices as they appear. We focus on solid and
 well maintainable code in C++.
+
+
+Some of our happy clients
+=========================
+
+<ul>
+  {% for image in page.images %}
+    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
+      <p><a href="{{ image.link }}" target="_blank">{{ image.text }}</a></p>
+    </li>
+  {% endfor %}
+</ul>
 
 
 Integrating everywhere
