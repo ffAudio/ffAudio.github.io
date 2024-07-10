@@ -42,9 +42,9 @@ well maintainable code in C++.
 Some of our happy clients
 =========================
 
-<ul>
+<ul class="horizontal-list">
   {% for image in page.images %}
-    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
+    <li class="horizontal-list" style="background-image: url({{ image.path }})">
       <p><a href="{{ image.link }}" target="_blank">{{ image.text }}</a></p>
     </li>
   {% endfor %}
