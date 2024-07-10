@@ -45,11 +45,11 @@ Some of our happy clients
 <ul style="display: flex; list-style: none">
   {% for image in page.images %}
     <li class="horizontal-list" style="background-image: url({{ image.path }}); 
-  width: 200px;"
+  width: 200px;
   height: 200px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;>
+  background-size: contain;">
       <p><a href="{{ image.link }}" target="_blank">{{ image.text }}</a></p>
     </li>
   {% endfor %}
