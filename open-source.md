@@ -11,8 +11,8 @@ you can have a look at our [github profile](https://github.com/ffAudio/){:target
 We will introduce you here to the most notable ones:
 
 
-[foleys_gui_magic - A WYSWYG runtime JUCE GUI builder](/developer/pluginguimagic/)
-------------------------------------------------------
+[foleys_gui_magic](/developer/pluginguimagic/) - A WYSWYG runtime JUCE GUI builder
+----------------------------------------------------------------------------------
 
 foleys_gui_magic is a juce module you can add to your JUCE plugin or App.
 It is sometimes referred to PluginGuiMagic. It allows
@@ -25,7 +25,7 @@ For a more complete list have a look [here](/developer/pluginguimagic/).
 
 
 [foleys_video_engine](/developer/videoengine/)
----------------------
+----------------------------------------------
 
 We developed a video engine to be used in JUCE projects. The reading is done
 using FFmpeg and the audio is piped into a JUCE audio pipeline.
