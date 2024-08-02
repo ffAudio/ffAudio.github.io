@@ -18,8 +18,13 @@ images:
     link: https://loopcloud.com
   - path: /img/clients/Artiphon.webp
     column: 4
+    text: Artlist
+    link: https://artlist.io
+  - path: /img/clients/Artlist.webp
+    column: 5
     text: Artiphon instruments
     link: https://artiphon.com
+
 
 
 
