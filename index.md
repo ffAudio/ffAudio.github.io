@@ -36,10 +36,10 @@ of Daniel Walz in Esslingen, Germany.
 Featured
 ========
 
-After working on several successful projects with Marcel Huibers from [sounddevelopment.nl](https://www.sounddevelopment.nl/)
+After working on several successful projects with Marcel Huibers from [sounddevelopment.nl](https://www.sounddevelopment.nl/){:target="_blank"}
 we joined forces and created a new brand [Lobith Audio](https://lobith-audio.com).
 
-[<img src="img/lobith-featured.png" alt=" Lobith Audio teaser panel">](https://lobith-audio.com)
+[<img src="img/lobith-featured.png" alt=" Lobith Audio teaser panel">](https://lobith-audio.com){:target="_blank"}
 
 Please check it out! 
 
@@ -76,7 +76,7 @@ Our software is designed to run on Windows PCs, Apple computers as well as
 mobile platforms like iOS and Android. We also run Linux computers and develop
 software for Linux.
 
-We use [JUCE](https://juce.com) for many of our products, but not exclusively.
+We use [JUCE](https://juce.com){:target="_blank"} for many of our products, but not exclusively.
 
 VST "Virtual Studio Technology" is a trademark of Steinberg GmbH.
 
