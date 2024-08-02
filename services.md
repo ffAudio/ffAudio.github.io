@@ -7,6 +7,13 @@ subtitle: Services of Foleys Finest Audio UG
 
 Foleys Finest Audio offers consulting and contract development for the audio industry.
 
+Individual or Team
+------------------
+
+You can book me as individual or a team from my network. I am working regularly with
+experienced developers and engineers, so we save you the hassle of team building and
+no bad experiences with personality mismatch in the team.
+
 
 Technology Stack
 ----------------
