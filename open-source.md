@@ -11,15 +11,17 @@ you can have a look at our [github profile](https://github.com/ffAudio/){:target
 We will introduce you here to the most notable ones:
 
 
-[foleys_gui_magic](/developer/pluginguimagic/) - A WYSWYG runtime JUCE GUI builder
-----------------------------------------------------------------------------------
+A WYSWYG runtime JUCE GUI builder
+---------------------------------
 
-foleys_gui_magic is a juce module you can add to your JUCE plugin or App.
+[foleys_gui_magic](/developer/pluginguimagic/) is a juce module you can add to your JUCE plugin or App.
 It is sometimes referred to PluginGuiMagic. It allows
 - styling all colours with hierarchical CSS entries
 - layout your juce components
 - add visualisers of your signal to the GUI
 - add your own juce Components to the tree
+
+![Equalizer Screenshot](/img/EqualizerExample.png)
 
 For a more complete list have a look [here](/developer/pluginguimagic/).
 
