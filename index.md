@@ -12,6 +12,11 @@ images:
     column: 2
     text: Black Lion Audio
     link: https://blacklionaudio.com
+  - path: /img/clients/Artiphon.webp
+    column: 3
+    text: Artiphon instruments
+    link: https://artiphon.com
+
 
 
 ---
