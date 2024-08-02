@@ -57,7 +57,7 @@ Learn more under [Services](/services)
 Some of our happy clients
 -------------------------
 
-<ul style="display: flex; list-style: none">
+<ul style="display: flex; list-style: none; padding-left: 0px;">
   {% for image in page.images %}
     <li class="horizontal-list">
       <a href="{{ image.link }}" target="_blank"><img src="{{ image.path }}" alt="{{ image.text }}" width="150px" height="150px"></a>
