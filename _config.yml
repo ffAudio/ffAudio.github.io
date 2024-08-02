@@ -30,10 +30,6 @@ navbar-links:
     - Acknowledgements: "about/acknowledgements"
   Services: "services"
   Open Source: "open-source"
-    - PluginGuiMagic: "developer/pluginguimagic"
-    - Video Engine: "developer/videoengine"
-    - Frequalizer Free: "developer/frequalizer"
-    - Resources: "developer/resources"
   Forum: "https://forum.foleysfinest.com/"
   Blog: "blog"
 
