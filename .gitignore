@@ -8,3 +8,6 @@ _site
 .idea
 Thumbs.db
 ehthumbs.db
+
+#files
+*.afdesign*

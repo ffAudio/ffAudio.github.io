@@ -12,8 +12,12 @@ images:
     column: 2
     text: Black Lion Audio
     link: https://blacklionaudio.com
-  - path: /img/clients/Artiphon.webp
+  - path: /img/clients/LoopCloud.webp
     column: 3
+    text: LoopCloud
+    link: https://loopcloud.com
+  - path: /img/clients/Artiphon.webp
+    column: 4
     text: Artiphon instruments
     link: https://artiphon.com
 
