@@ -40,7 +40,7 @@ activations and whatever your needs are.
 Audio Frameworks
 ----------------
 
-Most of our projects are done using [JUCE](https://juce.com), but not exclusively.
+Most of our projects are done using [JUCE](https://juce.com){:target="_blank"}, but not exclusively.
 We also use QT as GUI framework and are continuously expanding our portfolio.
 
 We deploy to many audio plugin formats, VST3, AudioUnit and ProTools AAX. Our AAX 
@@ -53,5 +53,5 @@ will run with no issues on ProTools systems.
 Open Source
 -----------
 
-We developed various open source modules and products, that you can check out [here](/open-source).
+We developed various open source modules and products, that you can check out [here](/open-source/).
 
